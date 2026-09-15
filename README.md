@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
