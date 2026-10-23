@@ -8,6 +8,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
