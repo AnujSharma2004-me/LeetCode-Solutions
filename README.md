@@ -46,6 +46,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -85,4 +87,8 @@
 | [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
