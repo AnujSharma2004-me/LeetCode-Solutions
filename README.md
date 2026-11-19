@@ -47,6 +47,7 @@
 | [0567-permutation-in-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,8 +75,10 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
