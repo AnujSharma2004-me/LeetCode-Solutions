@@ -45,6 +45,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -70,15 +71,18 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujSharma2004-me/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
